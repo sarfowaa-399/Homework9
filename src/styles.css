@@ -1,0 +1,18 @@
+#heading{
+   margin: 20px auto;
+   width:60%;
+   padding: 20px;
+}
+
+.paragraph{
+    margin-top: 20px;
+}
+
+.para{
+    background-color: rgb(245, 4, 4);
+    color: #fff;
+    margin: 15px auto;
+    padding: 20px;
+    width: 50%;
+    border-radius: 5px;
+}
